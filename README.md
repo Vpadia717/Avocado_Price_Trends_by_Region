@@ -28,7 +28,11 @@ To reproduce the analysis, open the `main.R` script in R or RStudio and run the 
 
 Our analysis shows that avocado prices varied significantly by region and year. While the Northeast region generally had higher average prices than other regions, there were exceptions depending on the year. Additionally, prices increased across all regions between 2015 and 2017, before decreasing in 2018.
 
-For more detailed analysis and visualizations, please see the `avocado_price_analysis.html` file.
+For more detailed analysis and visualizations, please see the `main.r` file.
+
+### Reference images:
+
+<img src="main_plot.svg" alt="drawing"/>
 
 ### License
 
