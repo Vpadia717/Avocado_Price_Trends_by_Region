@@ -5,7 +5,7 @@ This project analyzes regional variations in avocado prices in the United States
 ### Project Files
 
 - `avocado_sales.csv`: Raw data file containing avocado sales data
-- `main.R`: R script for data cleaning, analysis, and visualization
+- `main.r`: R script for data cleaning, analysis, and visualization
 - `README.md`: This file
 
 ### Requirements
@@ -22,7 +22,7 @@ This project requires the following R packages:
 
 ### Usage
 
-To reproduce the analysis, open the `main.R` script in R or RStudio and run the code. The script will download the necessary data from Gapminder and generate visualizations comparing avocado prices by region and by year.
+To reproduce the analysis, open the `main.r` script in R or RStudio and run the code. The script will download the necessary data from Gapminder and generate visualizations comparing avocado prices by region and by year.
 
 ### Results
 
